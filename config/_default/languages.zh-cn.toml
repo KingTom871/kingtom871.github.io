@@ -1,0 +1,21 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 4
+title = "Ehsan的博客"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2006-01-02"
+  description = "分享知识、故事和经验，因为一起学习更有趣。"
+
+[params.author]
+  name = "Ehsan Malik"
+  image = "img/avatar.png"
+  headline = "全栈 / 魔术师"
+  bio = "👉开朗的开发者，开源爱好者。🐧"
+  links = [
+    { email = "mailto:em1130mail@gmail.com" },
+    { github = "https://github.com/nunocoracao/blowfish" },
+  ]

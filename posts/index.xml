@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Ehsan's Blog</title><link>https://kingtom871.github.io/posts/</link><description>Recent content in Posts on Ehsan's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Ehsan Malik</copyright><lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kingtom871.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Why Wails Apps Lag on Linux: Solving Frontend Performance Issues</title><link>https://kingtom871.github.io/posts/1758551903657-wails-on-linux-runs-slowly-how-to-fix-frontend-lag-on-ubuntu/</link><pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate><guid>https://kingtom871.github.io/posts/1758551903657-wails-on-linux-runs-slowly-how-to-fix-frontend-lag-on-ubuntu/</guid><description>&lt;h2 class="relative group"&gt;Introduction
+&lt;div id="introduction" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#introduction" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;While developing a cross-platform desktop application, I recently encountered a confusing issue:&lt;br&gt;
+The same Wails app ran smoothly on Windows, but noticeably lagged on Linux distributions like Ubuntu. The symptoms included stuttering animations and slow UI response. At first, I suspected the Wails framework itself, or that my GPU drivers were not properly installed. After careful investigation, I realized neither of those was the cause.&lt;/p&gt;</description></item></channel></rss>

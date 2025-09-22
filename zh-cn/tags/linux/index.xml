@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on Ehsan 的博客</title><link>https://kingtom871.github.io/zh-cn/tags/linux/</link><description>Recent content in Linux on Ehsan 的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Ehsan Malik</copyright><lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kingtom871.github.io/zh-cn/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Wails 在 Linux 上卡顿？前端性能优化与解决方案</title><link>https://kingtom871.github.io/zh-cn/posts/1758551903657-wails-on-linux-runs-slowly-how-to-fix-frontend-lag-on-ubuntu/</link><pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate><guid>https://kingtom871.github.io/zh-cn/posts/1758551903657-wails-on-linux-runs-slowly-how-to-fix-frontend-lag-on-ubuntu/</guid><description>&lt;h2 class="relative group"&gt;前言
+&lt;div id="前言" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;在开发跨平台桌面应用时，我最近遇到了一个让我困惑的现象：同样的 Wails 应用在 Windows 上运行流畅，但在 Ubuntu 等 Linux 发行版上却明显卡顿，表现为动画卡顿，界面响应慢，我以为是 Wails 框架性能问题，或者是我的显卡驱动安装不完整，但排查后发现这些都不是原因。&lt;/p&gt;</description></item></channel></rss>

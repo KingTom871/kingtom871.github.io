@@ -90,11 +90,11 @@ Even with GPU drivers correctly installed, the problem persisted. I used a WebGL
 
 ### Chrome GPU Off vs Wails
 
-![Wails Linux FPS](./img/chromegpuoff.png)
+![Wails Linux FPS](/img/chromegpuoff.png)
 
 ### Chrome GPU On vs Wails
 
-![Wails Linux FPS](./img/chromegpuon.png)
+![Wails Linux FPS](/img/chromegpuon.png)
 
 The result is clear: **Wails was running without GPU acceleration**.
 

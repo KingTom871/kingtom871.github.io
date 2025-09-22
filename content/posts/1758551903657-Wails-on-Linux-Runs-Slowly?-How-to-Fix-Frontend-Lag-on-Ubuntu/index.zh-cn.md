@@ -88,11 +88,11 @@ func main() {
 
 ### Chrome 关闭 GPU 加速与 Wails 对比
 
-![Wails Linux FPS](./img/chromegpuoff.png)
+![Wails Linux FPS](/img/chromegpuoff.png)
 
 ### Chrome 开启 GPU 加速与 Wails 对比
 
-![Wails Linux FPS](./img/chromegpuon.png)
+![Wails Linux FPS](/img/chromegpuon.png)
 
 结果显而易见，问题出在 **Wails 没有启用 GPU 加速**。
 

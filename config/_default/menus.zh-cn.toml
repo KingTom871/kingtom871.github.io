@@ -9,7 +9,17 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
- [[footer]]
-   name = "Bilibili"
-   url = "https://space.bilibili.com/694804481"
-   weight = 10
+[[footer]]
+  name = "标签"
+  pageRef = "tags"
+  weight = 6
+
+[[footer]]
+  name = "分类"
+  pageRef = "categories"
+  weight = 10
+
+[[footer]]
+  name = "Ehsan 的视频频道"
+  url = "https://space.bilibili.com/694804481"
+  weight = 15

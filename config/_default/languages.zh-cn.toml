@@ -1,7 +1,7 @@
 languageCode = "zh-cn"
 languageName = "简体中文"
 weight = 4
-title = "Ehsan的博客"
+title = "Ehsan 的博客"
 
 [params]
   displayName = "简体中文"
@@ -14,7 +14,7 @@ title = "Ehsan的博客"
   name = "Ehsan Malik"
   image = "img/avatar.png"
   headline = "全栈 / 魔术师"
-  bio = "👉开朗的开发者，开源爱好者。🐧"
+  bio = "开朗的开发者 💻 · 开源爱好者 🐧 · 叙事向单机游戏爱好者 🎮"
   links = [
     { email = "mailto:em1130mail@gmail.com" },
     { github = "https://github.com/KingTom871" },

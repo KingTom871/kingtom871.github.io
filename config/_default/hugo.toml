@@ -25,8 +25,6 @@ enableEmoji = true
 [taxonomies]
   tag = "tags"
   category = "categories"
-  author = "authors"
-  series = "series"
 
 [sitemap]
   changefreq = 'always'
@@ -74,7 +72,7 @@ enableEmoji = true
   [segments.core]
     [[segments.core.includes]]
       # Debug core pages
-      path = '{/,/docs,/docs/**,/samples,/samples/**}'
+      path = '{/,/docs,/docs/**}'
   [segments.en_only]
     [[segments.en_only.includes]]
       # Alternatively, you can use environment variable

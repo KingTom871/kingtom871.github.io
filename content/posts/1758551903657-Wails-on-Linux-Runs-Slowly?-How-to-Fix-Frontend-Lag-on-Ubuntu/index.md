@@ -4,6 +4,7 @@ date: 2025-09-22
 draft: false
 description: "A practical guide to fixing frontend lag in Wails desktop applications on Linux."
 tags: ["Wails", "Vue", "Frontend", "Ubuntu", "Linux"]
+categories: ["Development"]
 ---
 
 ## Introduction

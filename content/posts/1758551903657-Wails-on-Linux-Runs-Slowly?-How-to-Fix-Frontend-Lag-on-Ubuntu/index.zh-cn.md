@@ -4,6 +4,7 @@ date: 2025-09-22
 draft: false
 description: "基于 Wails 的桌面图形程序在 Linux 卡顿的解决办法"
 tags: ["Wails", "Vue", "Frontend", "Ubuntu", "Linux"]
+categories: ["开发"]
 ---
 
 ## 前言

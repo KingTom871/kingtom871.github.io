@@ -1,5 +1,5 @@
 theme = "blowfish"
-baseURL = "https://emblog.github.io/"
+baseURL = "https://kingtom871.github.io/"
 defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
